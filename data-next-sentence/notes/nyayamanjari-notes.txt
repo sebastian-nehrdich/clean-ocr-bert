@@ -1,0 +1,1726 @@
+NYÃYA-MAÑJARĪ
+The Compendium of Indian Speculative LogicJAYANTA BHATTA'S
+NYAYA-MAÑJARĪ
+[The Compendium of Indian Speculative Logic]
+82088CL
+Delhi
+TRANSLATED INTO ENGLISH BY
+JANAKI VALLABHA BHATTACHARYYA
+VOL. I
+MOTILAL BANARSIDASS
+Varanasi
+PatnaMOTILAL BANARSIDASS
+Indological Publishers and Booksellers.
+Head Office BUNGALOW ROAD, JAWAHAR NAGAR, DELHI-7
+Branches 1. CHOWK, VARANASI-1 (U.P.)
+2. ASHOK RAJPATH, PATNA-4 (BIHAR)
+R625x1,1,2
+L8.]
+82088
+First Edition : Delhi, 1978
+Price Rs. 150.00
+Printed in India
+BY SHANTILAL JAIN, at shRI JAINENDRA PRESS, A-45, PHASE-I, INDUSTRIAL
+ARZA, NARAINA, NEW DELIN-28, AND PUBLISHED BY SUNDARLAL JAIN, FOR
+MOTILAL BANARSIDASS, BUNGALOW ROAD, JAWAHAr nagar, delhi-7To
+My Parents
+The late Pañcanana Tarkavāgisa
+and
+The late mother Annapūrnā Dert
+न्यायाम्बुधौ कृतस्नानः शुद्धबोधः पिता मम ।
+वितरतु कृपादृष्टि पञ्चाननः शिवोऽपरः ||
+अन्नपूर्णा ममाम्बा च वरदा या स्वभावतः t
+ग्रन्थसमाप्तिकण्टकान् हरतु दिव्यधाम्ना सा १३PREFACE
+Jayanta's Nyayamañjari became obscure in course of time in
+North East India because of the eminence of Vacaspati Miśra,
+Udayana, Gańgeśa Upadhyāya and Mimâmsakas. The rise of
+Navyanyaya in Bengal is another prominent factor since the
+Neo-logicians eclipsed the name and fame of their predecessors
+to a great extent. The decline of the glory of Kashmir as a
+seat of learning owing to political reasons is also a great factor
+which stood in the way of the attraction of the aspiring students
+from other states. Jayanta rose to prominence in his advanced
+age in Kashmir. Before the adequate publicity of Jayanta's
+master-piece 'Nyaya-mañjari' the sun of the glory of Kashmir
+went down. Cultural vacuum in India was filled up by the
+rise of the Prabhakaras and the Naiyãyikas around Mithila and
+other seats of learning in the eastern zone in the later half of
+the middle ages. The rise of the Jaina logicians in the western
+zone is another factor which led to the isolation of Kashmirian
+culture round about the same period. Jayanta was known to
+Prabhacandra Sūri and Gangeśa Upådhyāya. The latter knew
+him as jarannaiyāyika. Most probably he was not familiar
+with his great work. Vacaspati Miśra and Udayana Acarya
+became the focus of attention of all students of the Nyâya-
+Vaisesika systems. Moreover, Jayanta was not a systematic
+interpreter of the Nyaya-Sutra. He selected all the important
+topics of Logic and defended the essential features of the
+Realistic views of the Nyaya system to the best of his abilities.
+He selected the right channel of defence and shattered all
+barriers of the Idealists and the Poet-philosophers. His con-
+tributions to Philosophy, Ethics, and Theology are of no mean
+order. His catholicity in Religion even in the present day wins
+the admiration of the religious reformers and thoughtful per-
+sons, devoted to social service. It is undoubtedly the good
+fortune of the twentieth century that the great work of Jayanta
+was unearthed in the Southern India and was published by the
+late Gangadhara Šāstrī. The discovery of the text of Nyaya-
+mañjarī proves its excellence. It led to acceptance in the remo-(viii)
+test seat of national culture of independent India. The politi-
+cal turmoil is the predominant reason for its non-circulation in
+the states of India which were cut off from Kashmir by
+foreign invasion and internal feuds and constant political un-
+est in the intervening countries.
+Through the grace of God I have been able to present the
+first volume of Nyaya-mañjarī which embodies the ways of
+true knowledge of the Indian Logic to the enlightened socie-
+ties of the East and the West through the medium of English.
+This volume also comprises Epistemology and the fundamen-
+tal elements of Theology and Religion. I completed my work
+long ago and got it published in the Calcutta Review. During
+the period of publication I could not read the proof-sheets
+owing to my protracted illness. I depended upon the office-
+staff for the correction of the published pages. I got them
+retyped and sent them for publication. Bad health stood in
+the way of revising the printed and retyped pages. Also I
+have not been able to go through the proof-sheets of the present
+volume myself owing to the want of prompt communication
+for unavoidable reasons. I am sorry to state that I have notic-
+ed a few errata and lacunas in the final stage since. I had to
+depend solely upon a corrupt text. I have no opportunity of
+getting them corrected at present. I take the sole responsibi-
+lity on my own shoulders and lay the blame on no other doors
+for these shortcomings. I have made up my mind to do justice
+to the published work and to annex all corrections to the
+second volume which will be published in the near future. I
+simply beg the apology of the present readers for the adverse
+circumstances which stand in the way of my prompt action to
+rectify the book to the best of my abilities. To err is human
+and as such I may crave the indulgence of the sagacions readers
+for the same.
+I gratefully acknowledge my indebtedness to my beloved
+parents, teachers, friends and well-wishers whose constant
+encouragement has given me impetus to complete my work.
+My distinguished students and near ones have promised to help
+me by their suggestions and constructive criticism. In antici-
+pation I express my thanks to them. I invite criticism and
+valuable suggestions from all sympathetic readers. I think that(ix )
+it is a work of national importance which will help in the
+future to raise the standard of research work both in India
+and abroad.
+I acknowledge my indebtedness to my late father, Pancha-
+nana Tarkavagisa who had acted as pioneer to the translation
+of Nyāyamañjarī in Bengali. He paved the way which I have
+followed in English. He had to give up his work after making
+some progress since his weak eyes could not bear the strain of
+overexertion in his old age.
+I express my thanks with gratitude to my publishers who
+have encouraged me all along with ungrudging co-operation
+and also to all my well-wishers.
+Calcutta,
+22.8.77
+J. V. Bhattacharyya(xii)
+22. Presumption of the Bhaṭṭa-School
+23. Presumption included in Inference
+24. The Refutation of the hypothesis of Sakti
+Presumption based upon non-apprehension
+included in Inference
+25.
+26.
+The contention of the Prābhākaras in
+defence of Presumption
+The Refutation of Prabhakaras' defence
+27.
+28. Presumption based upon the verbal testimony
+is not distinct from inference
+29. Śrutarthāpatti refuted by the Prābhākaras
+30. The refutation of the hypothesis of Dhvani
+31. Abhāva (non-perception)-a distinct source of
+knowledge
+32.
+The refutation of Non-perception as a dis-
+tinct source of knowledge
+33.
+Denial of reality to a negative fact
+34. The Buddhist criticism-its examination
+35.
+Eleven-fold division of non-perception
+36.
+The reality of a negative fact
+37. The contrary view of the Prābhākaras
+refuted
+38. The clarification of Negation
+39.
+The Refutation of the hypothesis of Probability
+and Rumour
+Ähnika-II
+40. The Definition of Perception
+41. The view of Acarya
+42. The prima facie view-no place of Pară-
+marša
+43. Conclusive view-the perception of Capacity
+44. Consciousness-not an instrumental cause
+of itself
+45. The refutation of the charge of being too
+wide
+46. The significance of the first constituent term
+47. Sense-object contact
+48. The refutation of the change of being too narrow
+69-79
+79-81
+81-85
+85-87
+87-88
+88-90
+90-92
+93-101
+101-102
+102-107
+107-115
+115-118
+118-119
+119-122
+122-131
+131-132
+132-133
+133-135
+136-139
+139-141
+141-146
+146-148
+148-153
+153
+153-154
+154-156
+156-157(xiii)
+49. The significance of the term 'jñāna'
+50. The refutation of the Buddhist hypothesis
+51. The significance of the term 'avyabhicări'
+52. The various meanings of the term
+'avyapadeśya'
+(i) The traditional interpretation of the term
+(ii) Some followers of the opposite school of
+interpretation
+(iii) Some teachers of the Nyaya School
+(iv) Some other Logicians
+(v) The firm statement of the Nyâya view-point
+(vi) The view of a small section of Logicians
+53. The significance of the term 'non-erroneous'
+54. The significance of the term 'Vyavasāya'
+(determinate)
+55. The Definition of Perception as given by the
+Buddhists
+56. The refutation of the definition of Percep-
+tion of the Buddhists
+57. The definition of sense-perception as given
+by Vārṣagaṇya refuted
+58. The refutation of the definition of Percep-
+tion of the Mimamsakas
+59. Proof of the truth of transcendental percep-
+tion
+60. Mental Perception
+61.
+The refutation of the definition of Perception as
+proposed by the Sämkhya Kärikā
+Inference-its definition
+62.
+63. Induction based upon the law of identity
+and causality of the Buddhist hypothesis
+64. The refutation of the Buddhist hypothesis
+65. The Relation of concomitance--the basis of
+Induction
+66. An Objection to the Validity of Inference
+67. The Establishment of the Validity of
+Inference
+68.
+The Sūtra containing the definition of infe-
+rence explained
+1
+157-158
+158-162
+162-164
+164-165
+165-176
+176-178
+178-181
+181-183
+183-184
+184-185
+185-189
+189-193
+193-198
+198-209
+209-210
+210-215
+215-219
+219-225
+225-226
+226-234
+234-235
+235-241
+241-246
+246-249
+249-261
+261-265(xii)
+22. Presumption of the Bhaṭṭa-School
+23. Presumption included in Inference
+24. The Refutation of the hypothesis of Śakti
+25. Presumption based upon non-apprehension
+included in Inference
+26. The contention of the Prabhākaras in
+defence of Presumption
+27.
+The Refutation of Prabhakaras' defence
+28. Presumption based upon the verbal testimony
+is not distinct from inference
+Śrutarthapatti refuted by the Prabhakaras
+29.
+30.
+The refutation of the hypothesis of Dhvani
+31. Abhāva (non-perception)—a distinct source of
+knowledge
+32. The refutation of Non-perception as a dis-
+tinct source of knowledge
+Denial of reality to a negative fact
+The Buddhist criticism-its examination
+33.
+34.
+35. Eleven-fold division of non-perception
+36. The reality of a negative fact
+37. The contrary view of the Prabhakaras
+refuted
+38. The clarification of Negation
+39. The Refutation of the hypothesis of Probability
+and Rumour
+1
+Ahnika-II
+40. The Definition of Perception
+41. The view of Ācārya
+42. The prima facie view---no place of Pară-
+marsa
+43. Conclusive view-the perception of Capacity
+Consciousness-not an instrumental cause
+44.
+45.
+46.
+47.
+48.
+of itself
+The refutation of the charge of being too
+wide
+69-79
+79-81
+81-85
+85-87
+87-88
+88-90
+90-92
+93-101
+101-102
+102-107
+107-115
+115-118
+118-119
+119-122
+122-131
+131-132
+132-133
+133-135
+136-139
+139-141
+141-146
+146-148
+148-153
+153
+The significance of the first constituent term
+153-154
+Sense-object contact
+154-156
+The refutation of the change of being too narrow 156-157(xiii)
+49. The significance of the term 'jñāna'
+50. The refutation of the Buddhist hypothesis
+51. The significance of the term 'avyabhicari'
+52. The various meanings of the term
+'avyapadeśya'
+(i) The traditional interpretation of the term
+(ii) Some followers of the opposite school of
+interpretation
+(iii) Some teachers of the Nyaya School
+(iv) Some other Logicians
+(v) The firm statement of the Nyaya view-point
+(vi) The view of a small section of Logicians
+53. The significance of the term 'non-erroneous'
+54. The significance of the term 'Vyavasāya'
+(determinate)
+55. The Definition of Perception as given by the
+Buddhists
+56. The refutation of the definition of Percep-
+tion of the Buddhists
+57. The definition of sense-perception as given
+by Värsaganya refuted
+58. The refutation of the definition of Percep-
+tion of the Mimāṁsakas
+59. Proof of the truth of transcendental percep-
+tion
+60. Mental Perception
+61.
+The refutation of the definition of Perception as
+proposed by the Sâmkhya Karikā
+Inference-its definition
+62.
+63. Induction based upon the law of identity
+and causality of the Buddhist hypothesis
+64. The refutation of the Buddhist hypothesis
+65. The Relation of concomitance-the basis of
+Induction
+66. An Objection to the Validity of Inference
+67. The Establishment of the Validity of
+Inference
+68. The Sutra containing the definition of infe-
+rence explained
+157-158
+158-162
+162-164
+164-165
+165-176
+176-178
+178-181
+181-183
+183-184
+184-185
+185-189
+189-193
+193-198
+198-209
+209-210
+210-215
+215-219
+219-225
+225-226
+226-234
+234-235
+235-241
+241-246
+246-249
+249-261
+261-265(xiv)
+69. The function of the three constituent terms of
+the sutra in question
+70. The Meaning of the term 'Purvavat'
+71. The Meaning of the term 'Šeşavat'
+72. The Meaning of the term 'Sâmānyatodṛṣṭa
+73. Alternative three-fold division of Inference
+74. Distinction between 'Sesavat' and 'Sâmânyato-
+drsta'
+75. Past, Present and Future objects-an
+inference
+76. An Objection to the existence of Time
+77. Time-a Percept
+78. Time--an inference
+79. Division of Time
+80. Space-Reality
+81. Upamāna (Comparison)
+82.
+Objection to its validity
+83.
+Reply to it
+84. The hypothesis of the Mīmāṁsakas
+85. Its refutation
+Ahnika-III
+86. Sabda (verbal knowledge)
+87.
+88.
+Distinction between Sabda and Inference
+Objection to the Validity of verbal
+knowledge
+89. A reply to the Objection
+90. A general discussion: Intrinsic or extrinsic
+validity
+91. The Mimāṁsaka view : Intrinsic validity
+92. The Mimamsaka view of Intrinsic validity
+criticised
+93. The Intrinsic validity of the Vedas
+94. The refutation of the Mimàṁsã hypothesis that
+the very conditions of a judgment produce
+its truth
+95. The hypothesis of Non-discrimination
+96. The hypothesis of misapprehension
+265-267
+267-271
+271-273
+273-275
+275-279
+279-284
+284-285
+285
+285-287
+287-291
+291-293
+293-295
+295-297
+297-298
+298-303
+303-304
+304-312
+312
+312-318
+318-327
+327-328
+328-333
+333-334
+334-345
+345-349
+349-350
+351-366
+366 .
+366-371( xv )
+97. The hypothesis in question involves the defect
+of overlapping
+98. The refutation of the hypothesis of hallu-
+cination
+99.
+100.
+The hypothesis of Non-discrimination is re-
+affirmed as a means to the intrinsic validity of
+true knowledge
+101.
+The hypothesis of the Prabhākaras refuted
+102. The Refutation of the hypothesis of a section
+of the Mimamsakas
+103.
+The Extrinsic validity of the verbal
+knowledge established
+104.
+Objections to the existence of God
+105.
+The existence of God established
+106. The eternality of God's knowledge and other
+The refutation of the hypothesis of the
+Subjective Idealists
+107.
+108. The hypothesis of the Mimamsakas that
+sound is eternal affirmed
+111.
+attributes
+Incorporeal God
+109. An objection to the hypothesis in question
+110. Presumption employed as a proof of the
+hypothesis of the Mīmāṁsakas that words are
+eternal along with the criticism of it.
+The hypothesis that a letter is only mani-
+fested but is not produced as well as its
+criticism
+112.
+113.
+All the charges against the hypothesis of
+manifestation are answered
+The hypothesis of manifestation is better since
+it obeys the law of parsimony
+114. The summing up of the conclusion that
+sound is eternal
+115. The commencement of the refutation of the
+thesis in question
+116.
+The letters are many and are united by a
+universal
+117. The proof of the universals belonging to letters
+371-373
+374-375
+375-376
+376-391
+391-394
+394-401
+400-401
+401-406
+406-420
+420-422
+422-426
+426-427
+427-430
+430-439
+439-442
+442-444
+444-450
+450
+450-451
+451-459
+459-167118.
+119.
+( xvi )
+An objection to the hypothesis of the manifes-
+tation of sound leading up to its eternality
+The refutation of the hypothesis of manifes-
+tation and the affirmation of the thesis of
+creation
+120. The proof of the hypothesis that a sound is
+an attribute
+Ahnika-IV
+121. The authorship of the Vedas
+122. The Vedas are eternal-refuted
+123.
+The author of the Vedas-the creator of
+the universe
+124. Single authorship of all the Vedas
+125.
+126.
+The determination of the relation holding
+between a word and its meaning
+The refutation of the eternality of the
+relation between a word and its mean-
+ing
+127. The Vedas a source of valid knowledge
+because of divine authorship
+128.
+The Mimāṁsaka method of ascertaining the
+veracity of the Vedas
+129.
+The Validity of the Atharvaveda questioned
+A reply to the said objection
+130.
+131.
+Atharvaveda-a constituent of Trayi
+132.
+Primacy of the Atharvaveda
+133. The equality of the four Vedas (conclusion)
+134. The validity of Tantra, Ãgama, etc., discussed
+135. The authenticity of the Agamas of the
+Saiva, Pañcaratra and such other Schools-
+established
+136. The scriptures of the Buddhists are not
+authentic
+137.
+The hypothesis that all Agamas are authentic,
+being revealed by the trust-worthy persons
+The proving of the hypothesis that a par-
+ticular Agama is authentic
+138.
+467-472
+472-477
+477-483
+484-485
+485-496
+496-497
+497-499
+499-505-
+505-513
+513-522
+522-525
+526-527
+527-533
+533-538
+538-543
+543-544
+544-550
+550-551
+551-554
+554-562
+562-563( xvii )
+139. An objection to the Validity of the Vedas
+140. A reply to the charge of the falsehood of
+the Vedas
+141.
+A reply to another objection against the
+validity of the Vedas
+142. A reply to the above reply
+143. Nyaya-The meaning of Dharma
+144. The different meanings of Dharma refuted
+145. Do the Vedas involve contradiction ? No
+146. The Vedas have no veracity since they
+147.
+148.
+contain artha-Vadas-replied
+An objection to the validity of Mantras and
+its reply
+An answer to the objection that the Vedic
+sentences relating names of sacrifices are not
+true
+149. The Vedic words will be significant if they
+denote only the rites to be observed-Nyâya
+conclusion
+Ähnika-V
+150.
+Introduction
+151. An objection against the acceptance of a
+universal different problems raised
+Concepts are possible in the absence of
+universals
+152.
+153.
+The Buddhist conceptualism-a negative
+general image
+154.
+The refutation of a negative general image
+(apoha)
+155. Universals negated and the hypothesis of
+156.
+157.
+apohas defended
+The proof of the reality of universals
+Objections against the reality of universals
+answered
+158. The refutation of the hypothesis of Apoha
+159. The conclusive proof of a universal
+160. The meaning of a common noun
+563-566
+566-570
+570-572
+573-576
+576
+576-578
+578-585
+585-592
+592-602
+602-605
+605-617
+618-619
+619-626
+626-630
+630-631
+631-639
+639-647
+647-650
+650-661
+661-664
+664-665
+665-666( xviii )
+161. Words denote only an individual
+162.
+163.
+164.
+165.
+The Meaning of a Sentence (Introductory)
+166. The Rival hypothesis of the Meaning of a
+Sentence
+167. The view that a Sentence Denotes an Idea
+168. The Refutation of the Hypothesis that an
+Idea is conveyed by a Sentence
+169.
+The object to be accomplished, being the
+most important, is the Meaning of a
+Sentence
+170.
+171.
+172.
+The hypothesis that a word denotes
+universal refuted
+The hypothesis that a word denotes a
+concrete universal
+The complete meaning of a word includes
+invariably an individual
+173.
+The proof of the Hypothesis-The Fruit of an
+Action being superior to the Action Itself
+Heaven renders no perceptible assistance to
+the Verb
+Heaven renders no invisible help to any
+action
+The refutation of the hypothesis that an action
+of a person is signified by a sentence
+174.
+The Determination of the Nature of an
+Activity
+175.
+Three factors of Bhāvanā
+176. The character of an injunction (vidhi)
+177. The definition of motif
+178. The two types of Bhavanā
+179.
+A Sabda-Bhāvanā depends upon three
+constituent elements
+Relation between an Injunction and
+Bhāvanā
+180.
+181.
+182. A mandate is denoted by a sentence
+183. The causative and Optative suffixes differ in
+meaning
+The Sabda Bhavana constituting the
+meaning of a sentence examined
+666-677
+677-683
+683-684
+684-688
+688-689
+689-690
+690-692
+692-694
+694-697
+697-698
+698
+699-702
+702-704
+704-709
+709-715
+715-717
+717-719
+719-720
+720-721
+721-725
+725-727
+727-731
+731-732( xix )
+184. Verbal proof being the only source of a
+command-How is a command communi-
+cated to us as the meaning of such and such
+word
+185. Niyoga inducing to an obligatory duty
+186. A Niyoga is a Spring of Action when its
+sense is grasped
+187. Injunction-a categorical Imperative
+188. A Prohibitory Injunction is deterring
+189. The Scope of Prohibition
+190. The four-fold division of a Mandate
+The different forms of Injunction
+192. Conclusion-an Injunction is the meaning
+191.
+of a Sentence
+193.
+194. The conclusion of the Topic
+195. The meaning of a Sentence
+196.
+197.
+198.
+The counter Hypothesis that the knowledge
+of an end is the motive of one's action
+The conclusive view-An End is the mean-
+ing of a sentence
+The Hypothesis-inner activity of the Soul
+is the meaning of Sentence.
+The refutation of the hypothesis that a
+sentence conveys knowledge
+Ahnika-VI
+199. An introductory discussion to ascertain the
+real nature of a word
+200.
+The Refutation of the hypothesis that letters
+convey a sense of Sphoța by an inference
+201. The manifestation of a sphota by letters
+202. Inarticulate sounds manifest a sphota
+203. The Perceptibility of a Shota
+204.
+The proof of a vakya-sphoța
+205.
+The unreality of parts of a Sentence
+206. Sphoța enjoys the status of the Absolute
+207. An Introduction to the Refutation of Sphota
+208. The Hypothesis that Letters convey a
+Meaning Established
+732-734
+731-735
+735
+735-740
+740
+740-746
+746-747
+747-748
+748-749
+749-762
+762-763
+763-767
+767-768
+768-769
+769-771
+771-772
+72-778
+778
+778-779
+779-781
+781-782
+782-78+
+784-786
+786-786
+786-790( xx )
+209. The Hypothesis that Sphoța is an inference-
+refuted
+210. The Perceptibility of a Sphoța refuted
+211.
+212.
+213.
+The Hypothesis that a Word or a Sentence is
+partless refuted and the conclusive view on
+Sphota
+The Meanings of words communicate the
+meaning of a sentence refuted
+That a Sentence conveys its own Meaning
+is the conclusion
+214.
+The Hypothesis that words and Sentences are
+constituted by Letters Refuted
+215.
+The Hypothesis that a Sentence conveys its
+own Meaning Established
+216.
+The Alternative Hypothesis criticised
+217. Jayanta's own theory of the communication
+of meaning of a sentence-Established
+218. An Introduction to the hypothesis of mutual
+relation
+219. Rival Hypothesis of this Topic
+220. The Doctrine of Abhihita-anvaya
+221. The Refutation of the Doctrine
+222.
+An answer to the charges against the
+Hypothesis of Anvita-Abhidhāna
+223. The concluding portion of the same
+hypothesis
+224.
+The refutation of the hypothesis of Anvita-
+abhidhāna
+225. Another Hypothesis and its refutation
+226. The Knowledge of meanings as mutually
+related by Tatparyasakti
+227.
+An objection to the ascertainment of the
+meaning of the Vedas
+228.
+229.
+230.
+The hypothesis that one learns the Vedas
+with the help of Grammar is not tenable
+Inefficacy of the study of Grammar
+The untenability of the hypothesis that
+Grammar makes an improvement upon
+words
+790-801
+801-810
+810-823
+823-828
+828-830
+830-835
+835-836
+836-838
+838-842
+842
+842
+842-846
+846-848
+848-851
+851-854
+854-857
+857-858
+858-862
+862-867
+867-875
+875-880
+880-883( xxi )
+231. Notion of a chaste word is puzzling
+232. The definition of a chaste word is puzzling
+233. The establishment of the hypothesis that
+chaste words are denotative
+234. The hypothesis that corrupt words are eternal
+is not tenable
+235.
+The chastity of a word is fit to be perceived
+with the aid of the authoritative words
+236. The study of Grammar is compulsory
+237. The concluding portion
+INDEX
+883-887
+887-895
+895-898
+898-902
+902-912
+913-914
+914
+915INTRODUCTION
+Jayanta Bhaṭṭa is an obscure great scholar whom India may
+be proud of. He is like the moon in the misty night of Decem-
+ber. He has written the monumental work 'Nyaya-mañjari'.
+Though it should have been widely studied and discussed yet
+unfortunately it has not attracted the attention of Indian scho-
+lars as much as it deserves to do. We shall not try to find out
+the circumstances which were unfavourable to its study. We
+thank our stars that such a precious book was discovered and
+published by M. M. Gangadhara Śästrī towards the end of the
+19th century A. D. In this introduction we shall not discuss so
+much about the merits of Nyayamañjarī as about its author.
+Abhinanda, son of Jayanta Bhaṭṭa, gave his pedigree in his
+family in his introduction to Kādambari-katha-sára. We learn
+from it that Jayanta Bhaṭṭa's remote ancestor Sakti migrated
+to Kashmir from Bengal in the seventh century. He belonged
+to the Bharadvāja family of the Gauda section of Brahmins.
+The long journey undertaken by Sakti as described by Abhi-
+nanda, suggests that Sakti most probably migrated from Bengal
+to Kashmir. As he was a Gauḍa Brāhmaṇa the home of his
+ancestors was Bengal. But it is difficult to say with absolute
+certainty that Sakti migrated from Bengal. His grandson was
+Sakti Svāmin. He was a minister of Muktāpīda, also known as
+Lalitāditya. The great grand-son of Sakti Svåmin was Jayanta.
+We also learn from Abhinanda that Jayanta was a poet of no
+mean order and was also endowed with the gift of the gab. He
+was well-versed in the Vedic lore and the different branches
+of studies subordinate to the Vedas. Nay, he was well-acquaint-
+ed with all the branches of the Šāstras. Nyaya-mañjarī was
+composed by him, for its author acquired the title of Vṛttikära
+(the writer of a commentary). This glorious title, conferred
+upon him by a circle of scholars, points to the unqualified
+merit of the work.
+The date of Jayanta is not clearly stated in the Nyāya-
+mañjari. Prof. A. B. Keith holds that Abhinanda composed the
+synopsis of Kādambari in the ninth century A.D. He takes( xxiv )
+pride in his father's title 'Vṛtti-kara'. This title suggests that
+Nyāya-mañjari had been appreciated by the learned scholars
+of his time. In other words, Nyâya-mañjari precedes Kådam-
+barī-kathā-sara. If we accept the view of Dr. Keith, Nyāya-
+manjarī was composed in the ninth century A.D. But Dr. Keith
+has not elaborately discussed the problem of the date of
+Abhinanda. So there is room for a doubt about its certainty.
+Let us discuss the problem of Jayanta's date de novo.
+There are some incidental personal references, in the Nyaya-
+mañjarī of Jayanta, which throw some light on the age of its
+author. Jayanta mentions the name of Samkaravarman, the
+king of Kashmir.
+Yadapūrvamiti viditvä nivårayāmāsa dharmatattvajñaḥ /
+Rājā Šamkaravarmā na punar Jainādi-matamevam ||
+(p. 248 N. M. Benares edition)
+The king Samkaravarmā stopped some religious custom as
+it had been unprecedented. Jayanta uses the verb in the past
+perfect tense (lit). Does the verb 'nivãrayāmāsa' suggest
+that Samkara varman had reigned long before Jayanta
+was born? If it be so how is it that Jayanta's great grandfather
+was contemporaneous with the king Lalitāditya ? The reign of
+Muktāpīḍa extended over the period of thirty six years (from
+733 A.D. to 769 A.D.) From this datum alone we are in a
+position to infer the date of Jayanta. Jayanta must have been
+born in the middle of the ninth century A.D.
+Let us cite another verse from Nyāya-mañjarī, which will
+help us to understand the meaning of the verb in the past per-
+fect tense mentioned above.
+Rājñâ tu gahvare 'sminnaśabdake bandhane vinihito 'ham /
+Grantha-racanã-vinodādiha hi mayā vatsarā gamitāḥ //
+(p.363 N. M. Banares edition)
+Jayanta was imprisoned in a cave at the mandate of the king
+of Kashmir. He utilised his dreary days. He took to the writ-
+ing of Nyāya-mañjarī. Thus, he got a relief from the pain of
+confinement. During the period of confinement the King
+Šamkaravarman most probably put a ban on the Nilāmbara( xxv )
+custom. Jayanta defends the action of the king as the said cus-
+tom is immoral and not religious. The use of the verb in the
+past perfect tense suggests the skill of Jayanta in introducing
+bitter incidents without provoking the wrath of the then ruler.
+Now the question 'Why was Jayanta imprisoned by the king
+Samkaravarman?' arises in our mind. Jayanta remains silent
+on this point. Kalhaṇa in his Rājatarangiņi furnishes us with a
+clue. If we rightly grasp it then the reason behind Jayanta's
+imprisonment becomes clear.
+Dvijastayor nāyakākhyo Gaurīśa-sura-sadmanoḥ /
+Caturvidyaḥ kṛtaṁ tena Vägdevikula-mandiram !!
+(Rāja-tarangiņī 5/159)
+Who is this Nayaka? Stein thinks that the rhetorician Bhaṭṭa
+Nayaka has been referred to in this verse. There is no sound
+reason at the back of this conjecture excepting the surname
+"Nayaka' itself.
+A rhetorician is not necessarily a Vedic scholar, Nayaka
+"was not the name of the scholar. The title 'nãyaka' was most
+probably converted into a name. Jayanta deserved the title
+*Nayaka' in the fitness of things. In his versatile scholarship
+erudition in the Vedic lore, oratory and skill in composing
+*poems he was second to none. He was honoured by the king
+who appointed him a teacher of the royal institute of learning
+attached to the newly built temples of Siva. My revered father
+the late Pandit Pañcanana Tarka-vägīša in his introduction to
+"Nyaya-mañjarī rightly identified Nayaka with Jayanta. Thus,
+Jayanta became the most exalted teacher in Kashmir during
+the reign of Samkaravarman.
+Now, let us see why Jayanta was imprisoned by the king
+Samkaravarman, his very patron. Samkaravarman waged
+wars of aggression abroad. He dissipated the resources of the
+kingdom in these wars. But he achieved marked success no-
+where. It became a problem to him to meet the expenses of his
+vast army. He resorted to the oppressive system of taxation.
+Moreover, he was very extravagant and was particular about
+his personal comforts. He misappropriated the temple-treasures,
+being a slave of greed and vices. Being always encircled by( xxvi)
+en-
+some base and evil self-seekers his mind was so obsessed by
+their ill advice that he reduced the royal patronage till then
+joyed by the men of learning. Jayanta was a man of independent
+spirit. He was greatly devoted to the god Śiva. He was moral
+to the back-bone. Jayanta might have lodged his protest against
+the looting of the riches of temples. The arrogant king Sam-
+karavarman could tolerate no just opposition. Jayanta was a
+great stalwart. The opposition, led by him, had considerable-
+weight. In order to put down this opposition Jayanta was im-
+prisoned by the king. As the king was a terror to his subjects.
+so Jayanta did not dare record the account of his imprisonment.
+We refer to a few lines of Rajatarańgiņi in order to make our
+readers familiar with the extortions of the king Samkaravarman
+(Prajā-pidana-panditaḥ) (5/165) Devādināṁ sa sarvasvam
+jahara yosad-yuktibhiḥ (5/166) Catuḥ şaşțim suragrhăn mumoșe-
+taradañjasā (5/169) Nimittam maṇḍale' mușmin sa-vidyānām.
+anādare ... Rājñām pratāpahānau ca nănyaḥ Šamkaravarma..
+naḥ (5/179)... Anyaiśca vividhairyatnair vyadhäd grāmān sa nir-
+dhanan (5/175). No king in Kashmir excelled the king Sam-
+kara-varman in dishonouring men of letters in various ways.
+Kalhana gives the story of oppression of the subjects and
+that of dishonour shown to the learned men at the hands of the
+said king in a nutshell. Does not the imprisonment of the
+greatest scholar for defending a just cause illustrate the worst.
+type of dishonour accorded to the learned society by the king?"
+From the various suggestions scattered here and there we infer
+that Jayanta was imprisoned in a cave during the reign of
+Samkaravarman (883-902 A. D.)
+Jayanta's Nyâya-mañjarī is full of copious references. A careful.
+study of them may throw some light on his age. In this context.
+the mention of the references to very early works is useless.
+Jayanta refers to Kuṭṭanimatam, a work of the eighth century
+A. D. The view of the Carvāka system as adumbrated in the
+Tattva-upaplava-simha has been criticised by him. The name.
+of the work is not known to Jayanta. The book was most pro-
+bably written in the first half of the ninth century A. D. Jayanta
+criticizes the view of Yukti-dipikā, a work of the 8th century.
+He also quotes a verse from the first canto of Siśupala-vadha..
+Magha belonged to the eighth century A. D. Abhinanda, in.( xxvii)
+his Kadambari-katha-sära, mentions Jayanta Bhatta, his father
+as the illustrious vṛttikära. This book was most probably written
+in the second half of the ninth century A. D. We may roughly
+calculate the age of Abhinanda on the basis of the genealogical
+tree, mentioned by him.
+We shall now discuss another important problem, viz. the
+relation between Jayanta and Vacaspati Miśra. The pandit
+Surya Narayana Sukla, in his introduction to Bheda-siddhi,
+holds that Vacaspati Miśra was a pupil of Jayanta Bhatta. He
+quotes a verse from Nyāya-kaņikā which is a commentary on
+Vidhi-Viveka of Mandana Miśra. It runs thus :-
+Ajñāna-timira-samanim
+para-damanim Nyāya-mañjarīṁ rucirām /
+Prasavitre prabhavitre
+Vidyā-tarave namo gurave //
+The very name 'Nyāya-mañjari' has tempted the pandit to
+make a hasty conjecture. He has forgotten to take the date of
+Nyâya-suci-nibandha into consideration. The working of the
+date in this work is very ambiguous. We shall discuss the date
+of Văcaspati afterwards. The same pandit, in the Nyaya-mañjari
+edited by him holds that Vācaspati Miśra is earlier than
+Jayanta. He equates 898 vatsara with 841 A. D. He also holds
+that Jayanta refers to the view of Vācaspati Miśra. Jayanta
+refers to the view of acarya. Who is this âcârya? Is he Vācas--
+pati Miśra?
+If we carefully analyse the view of Acarya then we fail to
+identify Vacaspati Miśra with Acārya. Väcaspati, in his commen-
+tary on Nyāya-värttika, has shown much originality. None of
+his original views finds a place in Jayanta's Nyâya-mañjari.
+Moreover, Jayanta is not a student of Vacaspati. Why should
+he mention the name of Vacaspati? There is no proof that
+Vācaspati was Jayanta's teacher. The epithet 'acãrya' does not
+apply to him. Nyaya-mañjari, mentioned in the Nyaya-kanikā,
+is a treatise on Mimamsã. The term 'Nyaya' is very popular in
+the Mimāṁsā literature. Nyaya-mañjari signifies that it explains
+all the Nyayas given in the Mimâmsã-sūtra. Therefore we
+strongly assert that Vācaspatiwas not a pupil of Jayanta. Väcas-
+pati himself mentions the name of Trilocana as his teacher in( xxviii )
+the Nyāya-system. Trilocana has his original views on percep-
+tion. Jayanta is absolutely innocent of these views. Moreover
+in no work of Vacaspati is his acquaintance with the land of
+Kashmir to be found. Väcaspati had no knowledge about reli-
+gious toleration, the peculiar cult of Kashmir in the eighth and
+the ninth centuries A. D. He was strictly conservative in his
+out-look.
+The date of Nyaya-sūci-nibandha, is Samvatsara, Prajñānā-
+nanda Sarasvati holds the above view. According to this view
+Vācaspati was a contemporary of Devapala who probably
+reigned from 815 A. D. to 854. Vacaspati makes mention of a
+great ruler 'Nrga'. Who is this Nṛga? Indian history throws no
+light on such a ruler. How is it that an emperor has escaped
+the notice of historians? Nrga is an epithet but is not the name
+of a king. The Mahābhārata informs us of the great king Nrga.
+Though the king performed many pious deeds yet he committ-
+ed many sinful acts. From the above account we make out
+that Vācaspati used it figuratively. He did not openly condemn
+his royal patron. As he was very orthodox he could not justify
+some acts of his patron. Devapāla was a Buddhist king. He
+bestowed liberal grains on Buddhist monasteries. An inscription,
+belonging to his reign, refers to a grant to a Buddhist monastery
+built by a king of Java and Sumatra. The king's attachment to
+Buddhism displeased Vacaspati who neither suppressed his
+feeling nor clearly expressed it. He gave vent to his inner feeling
+in a subtle manner. Thus we see that Väcaspati was a senior
+contemporary of Jayanta. If we carefully examine the reference,
+contained in the Nyāya-mañjarī of Jayanta, we learn that Jaya-
+nta did not know much of his senior contemporary philosophers
+of distant lands: Jayanta was thoroughly conversant with the
+earlier views. At his time the communication of current thou-
+ghts was not easy. Avantivarman restored peace at home and
+became a great patron of learning. At this period Jayanta was
+a learner. He had to read the old classical works of the different
+branches of Sanskrit learning. He became a sound scholar when
+a civil war broke out in Kashmir. Kashmir which was previously
+a place of attraction for the men of letters belonging to the
+different parts of India, being a renowned seat of culture sud-
+denly turned out to be a field of military action-a beloved place( xxix )
+for warriors. The atmosphere of Kashmir became too hot for
+the advancement of learning. The import of new ideas into
+this land was suddenly stopped. Thus, Jayanta had no oppor-
+tunity of being acquainted with the current thoughts of other
+parts of India. After this civil war Śarıkaravarman ascended
+the throne of Kashmir. Jayanta rose to prominence. But fortune
+did not favour him for a long time. A sudden reversal of fate
+took place. He was imprisoned in a cell. He was cut off from
+the surrounding world. He became confined in the circle of his
+ideas. He found out some tragic relief in composing a work on
+the Nyaya-system of thought. The period of his imprisonment
+was indefinite. He found ample leisure to bestow his best
+thoughts on his composition. He repeatedly pondered over the
+problems he discussed. He dived deep into the matter and tried
+to reach the very bottom of every item. The wealth of know-
+ledge and mental alertness which he possessed won for him a
+place in the forefront of Indian philosophy.
+Some scholars hold that Jayanta flourished during the reign.
+of Partha or that of Pangu. The verse" .... nivārayāmāsa ..
+Rājā Šamkaravarmā” is the hinge upon which all their argu-
+ments hang. The use of the verb in the past perfect tense-
+think that Jayanta must be
+(nivārayāmāsa) leads them to
+posterior to Samkaravarman with whom he had no personal
+acquaintance. The events of the said king could not come with-
+in the circle of Jayanta's experience. These scholars have missed
+the sense of the past perfect tense. A person may use a verb in the
+past perfect tense to denote such events as happened in a distant
+country or at a period of time which is beyond the range of his
+sense-organs. The use of past perfect does not necessarily imply
+that it refers only to such an event as falls outside the life history
+of the person who uses the verb. Moreover, there is no reliable
+record in the history of Kashmir that the reign of the said king
+was notorious for the persecution of men of letters. Again, we
+know the genealogical table of Jayanta. If we calculate the age
+of Jayanta on the basis of the said table then we arrive at the
+conclusion that Jayanta was born during the reign of Avanti-
+varman. Hence we can confidently say that Jayanta was con-
+temporaneous with Śamkaravarman.
+Prof. Macdonell and some Indian Pandits place Văcaspati( XXX )
+Miśra in the twelfth century A. D. Their calculation of the age
+of Miśra has been wrong because they have wrongly identified
+the senior Vacaspati Miśra with the junior Vacaspati Miśra.
+The junior Vācaspati Miśra is better known as abhinava Vācas-
+pati Miśra. He is the author of Khaṇḍanoddhāra a work con-
+taining the refutation of Khaṇḍana-Khaṇḍa-khadya of Śrīharşa
+from the Nyāya standpoint. But they do not see how it is possi-
+ble that Udayana writes a commentary upon Vâcaspati's work.
+The late Pandit Vindhyesvari Prasada Dvivedi holds that
+Vacaspati Miśra flourished during the reign of the king Nrga
+in the tenth century A.D. He equates the Vatsara, mentioned
+by Vacaspati Miśra with the Saka era. In that case he be-
+-comes a contemporary of Udayana. He has little opportunity
+of writing a commentary on the Nyāya-Vārttika-tātparya of
+Vacaspati Miśra. When an earlier commentary is roughly
+handled by the critics, the posterior generation of the same
+school finds the necessity of defending the views of their
+teacher. An able disciple of the school writes a commentary
+upon the previous commentary. It is a general rule that there
+is a long interval of time between a commentary and its sub-com-
+mentary if the second commentary is not written by the direct
+disciple of the author of the former one. We can strongly
+assert that Udayana was not a disciple of Vācaspati. In the
+Bhāmati commentary of Vácaspati there is a reference to a
+sovereign ruler. His resources and prestige lie beyond the
+reach of imagination of the other kings. If Nrga is the king
+how is it that there is no trace of him in the history of India. No-
+body knows the existence of the king Nrga in the tenth century
+A.D. We appreciate the creation of the pure imagination of
+Vindhyesvari Prasada but cannot rely upon its contribution. We
+have already pointed out that the king Nrga is Devapāla. Thus
+we cannot accept the hypothesis of Vindhyesvari Prasada.
+According to our hypothesis Vācaspati Miśra is a senior con-
+temporary of Jayanta Bhaṭṭa; the Nyāya-vārttika-tātparya of
+Vacaspati has not been referred to in the Nyāya-mañjari and
+Jayanta is absolutely innocent of Vacaspati. Gangesa in his
+Tattva-cintamaṇi (upamāna-khaṇḍa) has mentioned the name
+of Jayanta as qualified by the epithet 'jaran Naiyāyika' (an
+old logician). We cannot infer the age of Jayanta from this( xxxi }
+epithet as Gangesa's knowledge of the chronological order is
+not dependable.
+The main task, undertaken by Jayanta, is to defend the
+views of Vatsyāyana expressed in the Nyaya-bhāṣya against the
+criticisms offered by the rival schools. He is a sincere and
+devoted student of the Bhäṣya school. Though the Buddhists are
+the worst enemies of Vätsyāyana yet Bhartṛhari, Kumârila,
+Prabhākara Rāja and others are no less formidable opponents.
+Jayanta wields his pen to give an answer to the charges brought
+forward by the critics of Vätsyāyana. He also subjects the
+rival hypothesis to severe criticism. At the time of explaining
+the views of his master he also introduces new matter into his
+work. His style of writing is inimitable. His language is
+forceful. His selection of words is very happy. Even when the
+discussion of a topic is very long, the presentation of the subject
+does not appear to be insipid to the readers. He does not at
+the same time sacrifice accuracy at the altar of his artistic
+expression. His analysis is very minute. He does not engage
+himself in logic-chopping He focusses his attention upon the
+subject matter. His mind is broad and fair. He appreciates
+the merit of the arguments of his opponent if they are sound.
+He does not condemn anything and everything which comes
+from the pen of his opponents. He is also very bold in his
+statement. He spares nobody however great he may be. He
+does not hesitate to be out-spoken He fearlessly declares that
+Prabhākara has borrowed such and such part of his thesis from
+the Buddhists without acknowledgment. Therefore, Prabha-
+kara is a plagiarist. Sometimes the caustic remarks, flung
+upon his masterly opponents, go beyond the bounds of decorum.
+Sometimes he overdoes and loses the balance of judgment.
+Though Jayanta is very cautious in the choice of words yet
+he being influenced upon by the style of writing of the earlier
+writers, unwittingly heaps contumely upon the great opponents
+of the Nyaya school. His self-restraint in the tempting places
+might have been much more appreciated. The use of harsh
+words or that of abusive language does not display the great-
+_ness of one's mind. Modesty in every sphere of life is praise-
+worthy. The language of the Buddhist critics is very bitter
+and pungent. These critics have no respect for the great( xxxii)
+teachers of the Nyaya school. Though the sarcastic remarks
+might have provoked the pious wrath of Jayanta yet he should
+have restrained himself and dressed his arguments and remarks.
+in polite language.
+Jayanta is a sound scholar. He has studied several branches:
+of learning. He has had no scruples to go through the text-
+books on Buddhist Logic. Though he holds a very poor
+opinion about the narrow outlook of the Cārvākas yet he pays.
+close attention to the proper understanding of their system..
+His knowledge of the Mimamsa school is very comprehensive.
+He is thoroughly acquained with the two broad divisions of the
+Mimāṁsā school, viz. the Bhāṭṭa and Prābhākara schools. He is.
+also aware of the nice shades of difference in views among the
+followers of these two schools. He mentions the views of
+Bhartṛmitra and those of the modern logicians of the Prabhā--
+kara school. He has studied all the recondite works on Pāņini's.
+grammar, viz. the Mahābhāṣya of Patañjali, the Vākyapadiya
+of Bhartrhari, etc. The Naiyáyikas do not generally read the-
+Vedic scriptures specially the Atharva Veda. Jayanta is a
+sound Vedic scholar. His study of Vedic literature is very
+extensive. That is why Jayanta is in a position to review the-
+hypothesis of the Mimāṁsakas with apt reference to the Vedic
+texts. It is also superfluous to add that he intimately knows
+all the details of the Nyaya school. In other words, he is like-
+a moving library. It is for this reason that he was able to.
+complete his voluminous Nyāya-mañjari when he had been
+cut off from the external world, being imprisoned in a cell.
+He received no help from outside. He had no books to-
+consult. He had to depend absolutely upon his memory and
+scholarship. It is a wonderful feat which has seldom any
+parallel in history. The authors of the modern age receive
+all facilities i.e. they are supplied with the books they require
+while they write books behind the prison bar. We shall do.
+injustice to Nyāya-mañjarī if we simply take it to be a commen-
+tary. It is an encyclopedia of logic, metaphysics, ethics and
+theology. It represents the history of Indian philosophy of a few
+centuries. If an author of the history of Indian Philosophy is
+not acquainted with Nyaya-mañjarī then his work will remain.
+incomplete for ever. His data will not be sufficiently collected..(xxxiii)
+Besides the resourcefulness of Nyāyamañjarī it contributes
+much towards the infusion of catholic spirit into Indian cul-
+ture. Jayanta has grasped the essence of true religion and ex-
+pressed it in clear and convincing terms.
+Jayanta mentions the six schools of logic, viz., the Nyāya
+school, the Samkhya school, the Buddhist school, the Jaina
+school, the Cärvāka school and the Vaiseșika school (asyam
+janatāsu prasiddhāyāmapi ṣaṭtarkyam). This remark will throw
+some light on those who will write the history of Indian Logic.
+It is interesting to note the ancient scholars did not recognise
+that the logic of memory always refers to such a content as is
+contradicted by our sound experience. Therefore, memory per se
+is incorrect. The hypothesis of memory, suggested by Jayanta,
+has not been accepted universally.
+Jayanta has also criticised the pragmatic test of true know-
+ledge. The knowledge of an object which successfully leads the
+knower up to the object or helps him to avoid it is true.
+The Buddhists say that the determinate perception, being
+constructed by imagination, is not true. But it cannot
+lead one up to the object in question because it is short-lived.
+The fundamental doctrine of the universal flux itself contradicts
+the definition of true knowlelge as offered by the Buddhists. From
+the standpoint of the Buddhists there is only a logical distinc-
+tion between Pramå and Pramâņa as they are the two aspects
+of one and the same phenomenon of consciousness. Jayanta has
+refuted this hypothesis.
+Jayanta subjects the hypothesis of Pramana as suggested by
+the Samkhyists to severe criticism. According, to them the mode
+of intellect (Buddhi) which assumes the form of an object
+is Pramāṇa. Jayanta boldly asserts that this hypothesis is closely
+akin to that of the Buddhists. He does not pay much importance
+to this hypothesis since the hypothesis of the Buddhists has been
+repudiated by him. In this context he has also proved that
+novelty is not the criterion of true knowledge.
+He has elaborately discussed the division and the definition
+of Pramaņa. He refers to the different views regarding the
+division of Pramāņa. His criticism is mainly directed against
+the Buddhists. He subjects the twofold division of true knowledge
+as offered by the Buddhists to severe criticism. The Buddhists1/
+( xxxiv)
+hold that there are only two kinds of objects, viz. (1) exclusively
+particular reals and (2) concepts manufactured and objectivized
+by our imagination. They also hold that this division of objects is
+based upon experience. We learn from our perception that this
+is a blue object, that this is not a non-blue object and that
+there is no other kind of object. Jayanta challenges the very
+evidence of perception and points out that perception can only
+reveal a present object but can do nothing more.
+In this way Jayanta proceeds to do justice to the hypothesis
+of the Naiyayikas. Having established the fourfold division of
+Pramâņa, he does not spare the hypotheses of the Bhāṭṭas and
+the Prabhākaras. He tries his level best to prove that presump-
+tion is not a distinct source of knowledge. He holds that presump-
+tion cannot be distinguished from inference. He also holds that
+a distinct source of knowledge is not to be postulated to know
+negation. Negation is perceived. It may also be inferred in
+some cases.
+In this connection he has tried his best to establish the hypo-
+thesis that negation is objectively real. He mentions the two-
+fold division of negation, viz. pre-negation and post-negation.
+The negation of an object which will come into being is called
+pre-negation. The negation of an object which has ceased to
+exist is called post-negation. The classical fourfold division as
+suggested by the Vaiseșikas has been ignored by him. He tries
+to explain all kinds of negation in terms of the two types of
+negation. He follows the foot-step of the Nyâya-Bhāṣya-kara. But
+his explanation is not satisfactory since he misses the funda-
+mental difference holding between the negation of identity and
+that of relation. Moreover, the eternal negation of an object in
+its relational character cannot be translated in terms of pre-
+negation.
+Jayanta exhibits all his scholarship to solve the problem of
+perception. He makes mention of a good number of views of
+the long forgotten logicians. He fairly discusses these views. In
+spite of his wide scholarship he fails to touch the centre of the
+problem of perception. Does our knowledge begin with a judg-
+ment? Is the indeterminate perception of the Nyaya School a
+judgment? Is it a feeling or a form of consciousness? Does the
+criterion of truth apply to it? Wherein lies the difference be--1
+( xxxv )
+tween the normal and the super-normal perception? Does super-
+normal perception come under the province of perception?
+Jayanta's idea of super-normal perception is not very clear.
+Moreover, Jayanta avoids some problems which he should have
+tackled with a firm hand. How are we aware of the awareness
+of an object? The causal theory of perception implies that the
+object which conditions its own perception should be present
+at the time of its perception. The phenomenon of consciousness
+very short-lived. It lasts only for two kṣaṇas. Again, the de-
+terminate perception of an object is preceded by its indeter-
+minate perception. If these two conditions of perception are
+taken to be essential then the intuition of an awareness becomes
+a problem.
+Jayanta discusses the problem of inference from the standpoint
+of the old logicians. His contribution to the solution of the prob-
+lem of inference is mainly the destructive criticism of the Bud-
+dhist hypothesis. The Buddhists hold that in order to arrive at a
+generalization one is to depend upon the relation of identity or
+that of causality. Jayanta strongly refutes this view. He also
+establishes the truth of inferential knowledge. One of the (pur-
+poses) of inference is to prove that the transcendental objects
+are rightly inferred. Jayanta plays his part well in order to bring
+home the point in question. But the problem of induction in-
+volves a few basic problems which are for empiricism hardnuts
+to crack. Jayanta does not raise them. Is induction at all possible
+from the empirical point of view? Jayanta anyhow solves this
+problem. He does not dive deep into the matter. He has also
+failed to work out the suggestions of the Nyaya-Värttika-kāra. He
+thinks that his task will be completed if he defends the Nyâya-
+Bhāṣya-kāra against the attacks raised by the hostile camps.
+Jayanta's treatment of Upamāna is fairly long. Gangesa re-
+fers to his view. The hypothesis of comparison as offered by
+the Mimāṁsakas has been admirably refuted by Jayanta. He
+has proved that Upamāna is a distinct source of knowledge but
+not an inference. Upamāna is not a piece of indirect knowledge
+based upon analogy. But it is the ascertainment of the meaning
+of an unknown word based upon analogy.
+Jayanta with right earnestness tries to establish the hypo-
+thesis of the Naiyãyikas that Śabda is a distinct source of know-( xxxvi )
+ledge. The knowledge, derived from the sentence of a trust-
+worthy person, is true. Though it is indirect yet it is not
+inferential. He refutes the view that verbal knowledge is an
+inference. He meets the objection of the Buddhists who hold
+that verbal knowledge per se is not true. In order to prove the
+thesis of the Naiyãyikas that the truth of the Vedas is not self-
+evident he raises the fundamental problem, viz. whether or not
+the truth of knowledge is self-evident. He also discusses the
+other aspects of the problem, viz. whether or not the factors to
+which a piece of knowledge owes its origin are responsible for
+its truth. After having discussed all the rival views he arrives
+at the conclusion that the truth of a piece of knowledge is not
+self-evident. A factor in addition to the recognised factors of a
+piece of knowledge is required to bring about a piece of true
+knowledge. The Vedas are not also immune from this general
+rule. In this context Jayanta has also discussed some of the
+well-known theories of illusion. He has established the Nyâya
+view of illusion, viz. a mistake consists in misinterpreting a thing.
+When one cannot read an object in the right context he wrong-
+ly places it and commits a mistake. Therefore a true or false
+knowledge implies that it is necessarily a judgment. Even if a
+judgment is false it contains a reference to a real object. The
+Naiyāyikas assume that there is no contradiction in Nature.
+Truth or falsehood applies only to a judgment. Jayanta shares
+the same view with them. He incidentally refers to the hypo-
+thesis of illusion of a section of the Mimāṁsakas whose thesis
+bears a close resemblance to that of the Advaitins. If we can
+ascertain the exact date of these Mimamsakas then a flood of
+new light will be shed on the history of Indian Philosophy.
+Jayanta enters into controversy with the Mīmāṁsakas, re-
+garding the character of sound. He closely examines the hypo-
+thesis of the Mimamsakas that sound is eternal and arrives at the
+conclusion that sound is non-eternal. He also holds that it is
+an attribute of the sky. The other topics of Nyaya-mañjarī will
+be discussed later on in proper places. We simply reiterate our
+honest opinion about Jayanta that he is a devoted student of
+the Nyaya-Bhâşya-school, having abilities of no mean order.
+0001ÄHNIKA I
+their ends of life.INDEX
+Abhāva (Non-perception) 102
+Abhihita-anvaya-vada 843; Criticism
+of 846, 857; Defence of 818
+Absolute, Identity of Sphota with 784
+Action, Nyaya view regarding the
+motive of 749
+Activity, Nature of 70+
+Anvita-abhidhāna-vāda 854; estab-
+lished 851
+Apoha, A negative general image 631
+Apohas, Universal versus 639
+Authoritative statement, Justification
+of 328
+Avyapadesya 162-64
+Bhartrhari 170
+Bhavana 704; Factors of 709
+Bhavana and injunction, Relation
+between 721
+Chala 19-20
+Collection of conditions, Discussion
+on 25-27
+Comparison for and against Upamâna,
+295; 297-302
+Comparison, Mimāmsā hypothesis
+301-12
+Comparison of the Mimämsä School
+302-03
+Concepts 626; Denial of 661
+Concomitance universal, Buddhist
+view refuted 235
+Consciousness and jñana, Relation
+between 158.
+Consciousness of the Samkhyists 53
+Denotative relation 499; Eternality
+refuted 505
+Dharma, Criticism of meanings of
+the term and its answer 577; The
+meaning of from the Nyaya stand-
+point 577
+Dhvani and its criticism 101-02
+Doubt 16
+Drstānta 16
+God, Existence of-upheld 406;
+External attributes of-including
+Omniscience 420; Incorporeal 422;
+Objecuons to the existence of 401;
+-the absolute creator 496
+Grammar, Incompetent to solve the
+riddle 867; Inefficiency of the study
+of 875; Its insignificant contri-
+bution to the improvement upon
+words 880; The necessity and
+efficacy of the study of 913
+<
+Illusion, Non-discrimination hypo-
+thesis of critical 376; Projection
+hypothesis of 375
+.
+-
+Inference, Alternative Three Types of
+275; Definition of 226; Explanation
+of 264; Validity of 258; of past,
+present and future objects 284
+Injunction (Vidhi) 715; Discussion
+on the meaning of 732-46; Division
+- of 746; Forms of 747; Mimāmsala
+view of 748
+Jalpa 19-20
+Jāti 19-20
+Jñana, Significance of the term 157.
+Judgement, conditions of-produced
+validity refuted 357
+Invariable concomitance, Buddhist
+view of 234
+alpanā 177
+Knowing process is an act 35
+Karaka, Discussion on 35-43
+Knowledge, Fourteen Sources of 3-5;
+Intrinsic, validity of Mimamsă
+view 331; Intrinsic validity refuted
+345; Its extrinsic validity examined
+351; of an unreal object, impossibi-
+lity of 374; of Merit, Demerit,
+Heaven and Hell, Sources of 2-3;
+of the Buddhist, the means of the
+new definition 46-52
+Laksana 21
+Letters, denoting meaning 788; Hypo-
+thesis of the creation of 473; Mani-
+festation of 467; Mīmāmsaka view
+that are concrete universals 451;
+Nyaya hypothesis of non-eternality
+of 439; Opposite view of the uni
+versals of 459; Review of the deno-
+tation of 772
+Logic, Six Systems of 6; Uulity of the
+study of 6-7
+Manifestation-hypothesis
+472
+refuted916
+Mantras, An objection to the validity
+of and its answer 592
+Memory and true knowledge 46
+Misapprehension, Hypothesis of
+reaffirmed 380; Refutation of 366
+Motif 717
+Negation, classification of 132; Refuta-
+tion of the Prabhākara view of 131;
+The reality of 122
+Negative act, Denial of reality to 115
+Nigrahasthāna 19-20
+Elevenfold division
+Objections against divine authorship
+refuted 527
+Nyāyamañjari
+Propositions, A syllogism of five 17
+Purvavat, Meaning of 267
+Nirnaya, Importance of 17-18
+Non-discrimination-a substitute for Sakti, Criticism of 80-81
+Sakti refuted 81-85
+Misapprehension 366
+Non-erroneous 165
+Non-perception,
+of 119; Refutation of 107
+Novelty in true knowledge, Role of 44
+Nyâya and Tarka 5
+Nyaya-sutra,
+Nyaya-vistára 5
+Subject-matter of 7-12
+Parikşā 21
+Perception, Affirmation of transcen-
+dental 215; Buddhist objection
+discussed 198; Defined and refuted
+225; Defined by the Mimâmsakas
+an examination 210; Determinate
+195; Place of Parámarsa in 141-54;
+Kumärila's alternative interpreta-
+tion 213; Mental 219; Rājā, the
+author of Yuktidipiká on 225;
+the definition of Perception in
+Nyāya-sūtra 136, View of Acārya
+on 139
+Reason Sound, Five conditions of 251
+Recognition as a piece of true know-
+ledge 46
+Regressus ad infinitum, Discussion on
+the nature of 44-45
+Sabda (Verbal knowledge authentic)
+312; Criticism of the validity of 327
+Sabda and inference distinguished 318
+Sabda-bhavana, Analysis of 720
+Samanyatoḍrşta, Meaning of 273
+Samplava 64
+Samvedana 43-44
+Scriptures, Reconciliation of all 562;
+The common authorship of the
+different sects of religion 558
+Sense-Object-Contact 154-57
+Sentence, A Third Theory regarding
+the communication of the meaning
+of and its criticism 857; Discussion
+on the meaning of 689, 725,
+727, 763, 767-69; Hypothesis of a
+partless 783; Meaning of 688;
+Communicating its own meaning
+825; Jayanta's Theory of Com-
+munication of the Meaning of 840
+Šeşavat, Meaning of 272; and Sāmā-
+nyatodṛşta, Distinction between
+279
+Power of cause, Criticism of 80-81
+Pramāņa, Definition of 22; Etymolo-
+gical meaning of 22; Final definition
+of 28; Final view on the nature of
+54-56; of the Samkhya School,
+the definition of 52-53
+Pramanas, Buddhist view on 28-33;
+Criticism of the view of Mimam-
+sakas on 34-46; Division of 22,
+56-57; Refutation of the Buddhist
+hypothesis on 61-64; Two-fold
+division of the Buddhist hypothe
+sis 57-61
+Pratibhà 46
+Presumption, Criticism of 79-80, 85-
+87; Criticism of the Prabhakara
+view 88; Prabhakara view on 87-
+88; of the Bhatta School 64-76
+Probability and Rumour, Criticism of
+the hypothesis of 133
+Siddhānta 16
+Sound, an attribute 477; Mimăm-
+saka's view of 426; Nyaya-counter-
+arguments to refute the Mimâmsaka
+view of 450; Objection to Mimāṁ-
+saka view of 427, Presumption in
+favour of eternity of 430
+Sounds, Arguments in favour of the
+eternality of 450
+Space, Determination of 293
+Sphota, Discussion on 776; impercep-
+tible 801; Refutation of 790-99
+Srutärthapatti 76-79
+Suffixes, Distinction between a cau-
+sative and optative 731
+Tantras, Agamas-Veracity of 544
+Tarka, Importance of 17
+Tätparya, Sakti postulated 858,
+Tativa, Meaning of 13
+The Atharvaveda included in the
+Trayi 533
+Time, Division of 294; Existence of
+and its source of knowledge
+285-91Index
+Truth or untruth, Nature of 13
+Uddeśa 21
+Universals, Conclusion of the discus-
+sion on 661; Discussion on 619;
+Real 647
+Upmåna (Comparison) 295
+Vedas, Authorship of 484; Conclusive
+proof of the veracity of the 914;
+Criticism of the veracity of 563;
+Eternality refuted 485; Fresh ob-
+jection against the veracity of 585;
+Intrinsic validity of 349; Meaning
+of the a riddle 862; Objections
+against the apparent shortcomings
+of 566; Proof of the truth of 522;
+me authorship of 497; The com-
+mon subject matter of 543; Veracity
+due to Divine authorship 515
+Vedic Collections, The position of the
+Atharvaveda among 529
+Vedic Sentences, A reply to the ob-
+jection to the truth of the contain-
+ing names of sacrifices 602
+917
+Vedic words, The conditional know-
+ledge of the meaning of 605
+Verbal knowledge affirmed, Extrinsic
+validity of 400
+Vibhāga 21
+Vitandâ 19-20
+Word, Denotation of as a concrete
+universal 683; Discussion on the
+denotation of as a mere universal
+677; Function of 684; Inadequate
+definition of a chaste 883; The
+Chastity of perceptible 902; The
+denotation of as a mere individual
+666; The meaning of 665
+Word and sentence, Relation bet-
+ween the meaning of 819
+Words, Limitations of the meanings of
+823; Partless or Sentences refuted
+810; Untenability of the eternality
+of unchaste 896
+Words and sentences, Constitution of
+-by letters 829; The alternative
+way of constituting by letters 832Nyayamanjari
